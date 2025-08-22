@@ -12,7 +12,7 @@ function App() {
       amount: 10,
       category: "food",
     },
-    { id: 4, discription: "a new thing too", amount: 10, category: "food" },
+    { id: 5, discription: "a new thing too", amount: 10, category: "food" },
   ]);
 
   return (
